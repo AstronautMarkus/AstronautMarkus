@@ -11,7 +11,7 @@ As a computer science student, what passionate me is developing useful and inter
   I enjoy making open-source and I enjoy to explore new technologies and leverage them to solve problems.
 </p>
 
-# <p align="center">My Github stats</p>
+# <p align="center">My GitHub stats</p>
 
 
 
