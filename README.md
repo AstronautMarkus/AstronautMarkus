@@ -1,10 +1,7 @@
-# <center>👋 Hello there! my name is Marcos Reyes</center>
+# <p align="center">👋 Hello there! my name is Marcos Reyes</p>
 
-
-<p algin="center">
-As a computer science student, I love create many things that helps or are fun, I like to write codes for useful purposes or as a hobby, 
-other topics that love are the videogames and anime, specially the videogames. The reason? Simple. My dream is create my own videogame, that
-thing sparked my interest in programming and computing. 
+<p align="center">
+As a computer science student, what passionate me is developing useful and interesting tools as well as writing codes with proposals such as a hobby. Also, I consider myself as an anime and video games fan; in particular sandbox video games since my biggest dream is to develop one of my own. for me, having this aspiration sparked my deep interest in the programming and computing world.
 </p>
 
 
@@ -14,8 +11,7 @@ thing sparked my interest in programming and computing.
   I enjoy making open-source and I enjoy to explore new technologies and leverage them to solve problems.
 </p>
 
-# <center>My GitHub stats</center>
-
+# <p align="center">My Github stats</p>
 
 
 
