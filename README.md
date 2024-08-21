@@ -17,8 +17,10 @@ As a computer science student, what passionate me is developing useful and inter
 <a href="https://reyesandfriends.cl" target="_blank">
   <img src="https://img.shields.io/badge/Check%20my%20personal%20page%20reyesandfriends.cl-840010?style=for-the-badge&logoColor=white" alt="Personal Page"/>
 </a>
-
 </div>
+
+
+
 
 # <p align="center">GitHub Stats</p>
 
@@ -97,3 +99,11 @@ As a computer science student, what passionate me is developing useful and inter
   </a>
 </div>
 
+
+<div align="center">
+
+## <p align="center">Listen to a song with me :)</p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31czlqut2yn3k7fhsallraijwzmq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1c71d8&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31czlqut2yn3k7fhsallraijwzmq&redirect=true)
+
+</div>
