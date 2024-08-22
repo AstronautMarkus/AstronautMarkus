@@ -45,7 +45,7 @@ As a computer science student, what passionate me is developing useful and inter
   </tr>
 </table>
 
-## <p align="center">Technologies that I usually use</p>
+## <p align="center">Technologies and languages: </p>
 
 <div align="center">
 
