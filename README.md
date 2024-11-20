@@ -31,6 +31,11 @@ Hello, and welcome to my profile! my name is Marcos but you can call me "Markus"
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
