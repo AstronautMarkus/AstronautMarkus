@@ -28,6 +28,12 @@ Hello, and welcome to my profile! my name is Marcos but you can call me "Markus"
 ![Astronautmarkus' GitHub stats](https://github-readme-stats.vercel.app/api?username=astronautmarkus&show_icons=true)
 ![Astronautmarkus' Streak](https://github-readme-streak-stats.herokuapp.com/?user=astronautmarkus&theme=default&hide_border=true)
 
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ---
 
 </div>
