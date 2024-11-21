@@ -33,7 +33,11 @@ Hello, and welcome to my profile! my name is Marcos but you can call me "Markus"
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       1 hr 33 mins    █████████▓░░░░░░░░░░░░░░░   38.89 %
+Markdown     1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+HTML         53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
+YAML         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+CSS          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
