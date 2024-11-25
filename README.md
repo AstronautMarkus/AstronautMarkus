@@ -33,18 +33,18 @@ Hello, and welcome to my profile! my name is Marcos but you can call me "Markus"
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 55 mins
+Total Time: 12 hrs 22 mins
 
-PHP               2 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.34 %
-Python            2 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-Markdown          2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
-HTML              53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-YAML              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-CSS               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Java Properties   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Bash              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python            5 hrs 26 mins   ███████████░░░░░░░░░░░░░░   44.03 %
+PHP               2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+Markdown          2 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+HTML              1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+YAML              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+CSS               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JSON              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Bash              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Text              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
