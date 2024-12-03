@@ -36,10 +36,10 @@ Hello, and welcome to my profile! my name is Marcos but you can call me "Markus"
 Total Time: 32 hrs 11 mins
 
 Python            13 hrs 10 mins  █████████▓░░░░░░░░░░░░░░░   39.30 %
-HTML              6 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+HTML              6 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
 Markdown          4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
 PHP               3 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-TypeScript        3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+TypeScript        3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
 Other             1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 CSS               24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 JavaScript        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
