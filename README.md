@@ -38,4 +38,4 @@ From time to time, I experiment with unusual combinations to achieve exotic func
 
 Feel free to reach out to me via [marcosreyesmartinez2003@gmail.com](mailto:marcosreyesmartinez2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/markusreyes).
 
-> "Fix your little problem and light this candle" - Alan Shepard
+> “Why don't you fix your little problem and light this candle?” - Alan Shepard
