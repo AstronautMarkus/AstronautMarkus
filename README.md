@@ -40,4 +40,11 @@ From time to time, I experiment with unusual combinations to achieve exotic func
 
 Feel free to reach out to me via [marcosreyesmartinez2003@gmail.com](mailto:marcosreyesmartinez2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/markusreyes).
 
+<div align="center">
+
+![witch-craft-works-tap-face](https://github.com/user-attachments/assets/e65344bb-5e04-4d6c-be04-e97a3320d804)
+
+
+</div>
+
 > “Why don't you fix your little problem and light this candle?” - Alan Shepard
