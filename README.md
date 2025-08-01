@@ -8,7 +8,7 @@ _"Take the Chance, Take the Dream, Take the World."_
 
 ### Main Stack
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php,python,flask,react,vue,astro,docker" alt="Tech Stack" width="600"/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php,python,flask,laravel,react,vue,astro,docker" alt="Tech Stack" width="600"/>
 
 ---
 
