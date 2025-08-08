@@ -3,6 +3,8 @@
 # 👨🏻‍🚀 Marcos Reyes M. | AstronautMarkus 🚀  
 _"Take the Chance, Take the Dream, Take the World."_
 
+![witch-craft-works-tap-face](https://github.com/user-attachments/assets/e65344bb-5e04-4d6c-be04-e97a3320d804)
+
 
 🌍 **Based in:** Santiago, Chile 🇨🇱
 
@@ -36,14 +38,15 @@ I'm currently building **Reyes&Friends**, my own digital venture where I offer *
 I'm always open to new collaborations, interesting ideas, or just a good chat about tech ☕  
 Feel free to reach out through the following channels:
 
-[![Email](https://img.shields.io/badge/Email-marcos@reyesandfriends.cl-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcos@reyesandfriends.cl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-markusreyes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markusreyes)
-
-
 <div align="center">
 
-![witch-craft-works-tap-face](https://github.com/user-attachments/assets/e65344bb-5e04-4d6c-be04-e97a3320d804)
+<a href="https://www.linkedin.com/in/markusreyes" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn de markusreyes">
+</a>
 
+<a href="mailto:marcos@reyesandfriends.cl">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Enviar correo a marcos@reyesandfriends.cl">
+</a>
 
 </div>
 
