@@ -79,3 +79,7 @@
 </table>
 
 </div>
+
+### Always remember:
+
+> Why don't you fix your little problem and light this candle? -Alan Shepard
