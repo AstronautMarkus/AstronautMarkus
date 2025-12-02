@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td align="center" style="vertical-align: middle; width: 120px;">
-            <img src="https://github.com/user-attachments/assets/56328971-91d5-4e24-97c9-1a7ff2a0c8d2" alt="Markus the Astro Witchter" width="550"/>
+            <img width="800" alt="Markus" src="https://github.com/user-attachments/assets/1c2cec1f-b0ed-4c61-9fa7-cd0fe6fca8c2" />
         </td>
         <td style="vertical-align: middle; padding-left: 20px;">
             <h1>Marcos Reyes M. | AstronautMarkusDev</h1>
