@@ -1,12 +1,16 @@
+<div align="center" style="width: 100%;">
+        <img src="https://count.getloli.com/@AstronautMarkus?name=AstronautMarkus&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" style="width: 50%;" />
+</div>
+
 <table>
     <tr>
         <td align="center" style="vertical-align: middle; width: 120px;">
             <img width="800" alt="Markus" src="https://github.com/user-attachments/assets/1c2cec1f-b0ed-4c61-9fa7-cd0fe6fca8c2" />
         </td>
         <td style="vertical-align: middle; padding-left: 20px;">
-            <h1>Marcos Reyes M. | AstronautMarkusDev</h1>
-            <strong>:octocat: Hello, world. Programmed to work and not to feel. Not even sure that this is real. </strong><br>
-            My name is <strong>Marcos Reyes</strong>, but you can call me <em>AstronautMarkus</em> or simply <em>Markus</em>.<br><br>
+            <h1>"Don't call me pookie, I'm gangsta"</h1>
+            <strong>:octocat: Hello, world. AstronautMarkusDev here! :octocat:</strong><br><br>
+            My name is <strong>Marcos Reyes</strong>, but you can call me <em>Markus</em>.<br><br>
             I'm a passionate <strong>software developer</strong> and <strong>systems administrator</strong> with a strong focus on <em>open source projects</em> and <em>community-driven solutions</em>. My expertise spans <strong>backend</strong> and <strong>frontend development</strong>, <strong>DevOps</strong>, and <strong>automation</strong>. I enjoy building <em>scalable web applications</em>, designing <em>RESTful APIs</em>, and working with modern frameworks like <strong>Laravel</strong>, <strong>Flask</strong>, <strong>React</strong>, and <strong>Vue</strong>.<br><br>
             Beyond coding, I'm deeply involved in <strong>managing Linux servers</strong>, <strong>optimizing networks</strong>, and <strong>maintaining production databases</strong>. I love exploring <em>new technologies</em>, contributing to <em>open source</em>, and sharing knowledge with others.<br><br>
             Feel free to connect with me if you want to <strong>collaborate</strong>, <strong>discuss tech</strong>, or just say <em>hi</em>!
