@@ -1,4 +1,4 @@
-# 👨‍💻 Marcos Reyes
+# Marcos Reyes
 
 <div align="center">
 
@@ -15,18 +15,18 @@ Building scalable web applications, automation tools, and reliable infrastructur
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Passionate software developer with expertise in crafting elegant solutions across the full tech stack. I specialize in:
 
-- 🚀 **Web Development** - Building responsive, modern applications with clean, maintainable code
-- 🐧 **Linux Systems** - Designing and managing robust, scalable infrastructure
-- 🤖 **Automation** - Creating tools that streamline workflows and boost productivity
-- 🔧 **Open Source** - Contributing to and leveraging the power of community-driven projects
+- **Web Development** - Building responsive, modern applications with clean, maintainable code
+- **Linux Systems** - Designing and managing robust, scalable infrastructure
+- **Automation** - Creating tools that streamline workflows and boost productivity
+- **Open Source** - Contributing to and leveraging the power of community-driven projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -70,31 +70,19 @@ Passionate software developer with expertise in crafting elegant solutions acros
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstronautMarkus&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AstronautMarkus&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 🌍 **Portfolio** | [astronautmarkus.dev](https://astronautmarkus.dev) |
-| 💼 **LinkedIn** | [/in/markusreyes](https://linkedin.com/in/markusreyes) |
-| 🎨 **GitLab** | [@astronautmarkus](https://gitlab.com/astronautmarkus) |
-| 📸 **Instagram** | [@astronautmarkusdev](https://instagram.com/astronautmarkusdev) |
-| 📧 **Email** | [marcos@reyesandfriends.cl](mailto:marcos@reyesandfriends.cl) |
+| **Portfolio** | [astronautmarkus.dev](https://astronautmarkus.dev) |
+| **LinkedIn** | [/in/markusreyes](https://linkedin.com/in/markusreyes) |
+| **GitLab** | [@astronautmarkus](https://gitlab.com/astronautmarkus) |
+| **Instagram** | [@astronautmarkusdev](https://instagram.com/astronautmarkusdev) |
+| **Email** | [marcos@reyesandfriends.cl](mailto:marcos@reyesandfriends.cl) |
 
 </div>
 
@@ -102,6 +90,6 @@ Passionate software developer with expertise in crafting elegant solutions acros
 
 <div align="center">
 
-✨ **Open to collaborations and exciting projects!** ✨
+**Open to collaborations and exciting projects!**
 
 </div>
