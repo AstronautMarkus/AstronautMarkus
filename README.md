@@ -1,5 +1,3 @@
-# Marcos Reyes
-
 <div align="center">
 
 **Full Stack Developer | Linux Systems Administrator | Open Source Enthusiast**
@@ -13,7 +11,8 @@ Building scalable web applications, automation tools, and reliable infrastructur
 
 </div>
 
----
+<img width="9020" height="78" alt="rainbows" src="https://github.com/user-attachments/assets/29382a86-d6bf-4b55-b3e9-d5dc46bf33dc" />
+
 
 ## About Me
 
@@ -24,7 +23,7 @@ Passionate software developer with expertise in crafting elegant solutions acros
 - **Automation** - Creating tools that streamline workflows and boost productivity
 - **Open Source** - Contributing to and leveraging the power of community-driven projects
 
----
+<img width="9020" height="78" alt="rainbows" src="https://github.com/user-attachments/assets/29382a86-d6bf-4b55-b3e9-d5dc46bf33dc" />
 
 ## Tech Stack
 
@@ -79,7 +78,7 @@ Passionate software developer with expertise in crafting elegant solutions acros
 
 </div>
 
----
+<img width="9020" height="78" alt="rainbows" src="https://github.com/user-attachments/assets/29382a86-d6bf-4b55-b3e9-d5dc46bf33dc" />
 
 <div align="center">
 
