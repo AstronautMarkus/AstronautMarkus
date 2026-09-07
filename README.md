@@ -1,12 +1,16 @@
 <div align="center">
 
+<img width="2418" height="416" alt="Header" src="https://github.com/user-attachments/assets/6f566517-14ec-47d5-b0e9-fc0348c5efcc" />
+
+
+
 **Full Stack Developer | Linux Systems Administrator | Open Source Enthusiast**
 
 Building scalable web applications, automation tools, and reliable infrastructure solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AstronautMarkus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markusreyes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=chrome&logoColor=white)](https://astronautmarkus.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/markusreyes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astronautmarkus.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos@reyesandfriends.cl)
 
 </div>
@@ -80,8 +84,6 @@ Passionate software developer with expertise in crafting elegant solutions acros
 
 <img width="9020" height="78" alt="rainbows" src="https://github.com/user-attachments/assets/29382a86-d6bf-4b55-b3e9-d5dc46bf33dc" />
 
-<div align="center">
 
-**Open to collaborations and exciting projects!**
 
-</div>
+> “This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface.” — Doug McIlroy
